@@ -1,32 +1,12 @@
-<!DOCTYPE  HTML  PUBLIC  "-//W3C//DTD  HTML  4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 <head>
-<META http-equiv="Content-Type" content="text/html;charset=ISO-8859-1">
-<title> Charlie </title>
-<style>
-body{background-color:blue}
-img{float:right}
-table {background-color:red}
-td {background-color:white}
+<metahttp-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> Charlie </title><styletype="text/css">
 </style>
 </head>
-
 <body>
-<table cellspacing=”100pc” >
-<tr><td> <h1> Charlie </h1>
-<p>The ginkgo (Ginkgo biloba) is a medium-sized tree native to the Orient, but widely planted in the Southestern US. The ginkgo is considered a “living fossil,”in that there are no closely related speciesstill extant. Ginkgos are prized for their vivid yellow fall leaves.
+<p>
 </p>
-<p>An unusual biological feature of the ginkgo is that it is a gymnosperm (“naked seed”), meaning that the ginkgo seed is not encased in a fruit. In this the ginkgo resembles pine trees, although the ginkgo is deciduous (loses its leaves in the winter).
-</p>Ginkgos can be extremely long lived; one ginkgo in Shandong province, China is estimated to be 3,000 years old.
-</p>
-<p>Source: en.wikipedia.org.
-</p>
-<p>Image credit: Fisher Yu. http://www.panoramio.com/photo/61783968</A></p>
-</td>
-<td><img src="61783968.jpg" alt="Ginko" height=220 width=172></td>
- </tr>
- 
-</table>
 </body>
-
 </html>
